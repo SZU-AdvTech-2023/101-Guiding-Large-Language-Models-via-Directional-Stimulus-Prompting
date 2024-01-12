@@ -1,0 +1,6 @@
+@article{REPO101,
+    author = "Li, Zekun and Peng, Baolin and He, Pengcheng and Galley, Michel and Gao, Jianfeng and Yan, Xifeng",
+    journal = "arXiv preprint arXiv:2302.11520",
+    title = "{Guiding Large Language Models via Directional Stimulus Prompting}",
+    year = "2023"
+}
